@@ -43,4 +43,4 @@ public extension SettingsDictionary {
 
 ### Graph
 
-<img src = "">
+<img src = "https://github.com/Tuist-Template/GuideLine/blob/main/iOS/Image/Swift/graph.png?raw=true">
