@@ -29,7 +29,7 @@ public extension SettingsDictionary {
 ```
 
 Tuist -> Projects -> 앱 이름 -> Sources -> App -> App.swift
-```
+```swift
 import SwiftUI
 import RootFeature
 
