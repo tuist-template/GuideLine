@@ -58,4 +58,4 @@ struct (앱 이름)App: App {
 
 ### Graph
 
-<img src = "https://github.com/Tuist-Template/GuideLine/blob/main/iOS/Image/SwiftUI/graph.png?raw=true">
+<img src = "https://user-images.githubusercontent.com/68891494/199053153-75e52cfd-1103-4447-8a52-03e2cddc0120.png">
