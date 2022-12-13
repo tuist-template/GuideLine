@@ -52,9 +52,9 @@ struct (앱 이름)App: App {
     - **/*.xcodeproj 과 *.xcworkspace 모두 삭제
 - make reset
     - tuist clean 후 **/*.xcodeproj 과 *.xcworkspace 모두 삭제
-- make feature
-    - 새로운 Feature 생성 
-    - make feature를 실행한 후 새로운 Feature 이름 입력
+- make project
+    - 새로운 Project 생성 
+    - make project를 실행한 후 새로운 Project 세팅
 
 ### Graph
 
